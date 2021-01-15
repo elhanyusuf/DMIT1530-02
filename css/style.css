@@ -1,0 +1,13 @@
+
+body {
+	font-family: arial, helvetica, sans-serif
+	font-size: 100%;
+	line-height: 1.5;
+	
+}
+
+header,
+main {
+	width: 1200px;
+	margin: 0 auto;
+}
